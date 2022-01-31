@@ -38,10 +38,8 @@ Author: Arulprasath
 
 16.Thanks Arul sir
 
-17.Thank you so much sir.. your explanations and video are amazing
+Thank you so much sir.. your explanations and video are amazing
 
-18. Block users in status
+11. Block users in status
 
-19. Adding Payment options [09-6-2021]
-
-20. Adding travel ticket booking platform.
+16 Adding Payment options [09-6-2021]
